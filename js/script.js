@@ -1,4 +1,3 @@
-    
 function init(){
 
 var text = document.getElementById("entryinput");
